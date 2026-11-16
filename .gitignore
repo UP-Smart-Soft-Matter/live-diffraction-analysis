@@ -1,0 +1,6 @@
+.venv/
+.idea/
+__pycache__/
+dlls/
+*.csv
+*.tif

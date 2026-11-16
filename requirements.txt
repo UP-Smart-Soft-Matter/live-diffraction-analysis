@@ -1,0 +1,8 @@
+PySide6
+pyqtgraph
+numpy
+scipy
+scikit-image
+tifffile
+pillow
+# thorlabs_tsi_sdk is not on PyPI - install it from the zip that ships with ThorCam (see README)
